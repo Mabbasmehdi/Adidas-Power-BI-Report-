@@ -53,8 +53,8 @@ Include preview images reference them here:
 3. Export report pages as PDF or PNG for documentation (`File → Export → Export to PDF`).
 
 ## 8. Files Included
-- `reports/Adidas_Dashboard.pbix` — Power BI source file (not included if file size is large).  
-- `data/` — raw and cleaned datasets (CSV/Excel).  
+- `reports/Adidas_Dashboard.pbix` — Power BI source file. 
+- `Adidas_dataset/` — raw and cleaned datasets (CSV/Excel).  
 - `README.md`
 
 ## 9. Acknowledgements
